@@ -1,0 +1,17 @@
+C:\Users\Marce\Documents\SharpDevelop Projects\sharpDevelopConexionConBD\sharpDevelopConexionConBD\obj\Debug\sharpDevelopConexionConBD.csprojResolveAssemblyReference.cache
+C:\Users\Marce\Documents\SharpDevelop Projects\sharpDevelopConexionConBD\sharpDevelopConexionConBD\bin\Debug\sharpDevelopConexionConBD.exe.config
+C:\Users\Marce\Documents\SharpDevelop Projects\sharpDevelopConexionConBD\sharpDevelopConexionConBD\bin\Debug\sharpDevelopConexionConBD.exe
+C:\Users\Marce\Documents\SharpDevelop Projects\sharpDevelopConexionConBD\sharpDevelopConexionConBD\bin\Debug\sharpDevelopConexionConBD.pdb
+C:\Users\Marce\Documents\SharpDevelop Projects\sharpDevelopConexionConBD\sharpDevelopConexionConBD\obj\Debug\sharpDevelopConexionConBD.exe
+C:\Users\Marce\Documents\SharpDevelop Projects\sharpDevelopConexionConBD\sharpDevelopConexionConBD\obj\Debug\sharpDevelopConexionConBD.pdb
+C:\Users\Marce\Desktop\sharpDevelopCodigoBaseConBD\sharpDevelopConexionConBD\obj\Debug\sharpDevelopConexionConBD.csprojResolveAssemblyReference.cache
+C:\Users\Marce\Desktop\sharpDevelopCodigoBaseConBD\sharpDevelopConexionConBD\obj\Debug\sharpDevelopConexionConBD.MainForm.resources
+C:\Users\Marce\Desktop\sharpDevelopCodigoBaseConBD\sharpDevelopConexionConBD\obj\Debug\sharpDevelopConexionConBD.csproj.GenerateResource.Cache
+C:\Users\Marce\Desktop\sharpDevelopCodigoBaseConBD\sharpDevelopConexionConBD\obj\Debug\sharpDevelopConexionConBD.exe
+C:\Users\Marce\Desktop\sharpDevelopCodigoBaseConBD\sharpDevelopConexionConBD\obj\Debug\sharpDevelopConexionConBD.pdb
+C:\Users\Marce\Desktop\sharpDevelopCodigoBaseConBD\sharpDevelopConexionConBD\bin\Debug\sharpDevelopConexionConBD.exe.config
+C:\Users\Marce\Desktop\sharpDevelopCodigoBaseConBD\sharpDevelopConexionConBD\bin\Debug\sharpDevelopConexionConBD.exe
+C:\Users\Marce\Desktop\sharpDevelopCodigoBaseConBD\sharpDevelopConexionConBD\bin\Debug\sharpDevelopConexionConBD.pdb
+C:\Users\Marce\Desktop\sharpDevelopCodigoBaseConBD\sharpDevelopConexionConBD\obj\Debug\sharpDevelopConexionConBD.Catalogo.resources
+C:\Users\Marce\Desktop\sharpDevelopCodigoBaseConBD\sharpDevelopConexionConBD\obj\Debug\sharpDevelopConexionConBD.Registrar.resources
+C:\Users\Marce\Desktop\sharpDevelopCodigoBaseConBD\sharpDevelopConexionConBD\obj\Debug\sharpDevelopConexionConBD.Buscar.resources
